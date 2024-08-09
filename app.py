@@ -18,7 +18,7 @@ def login():
 
         # Check if the username and password are correct
 
-        if username == 'HASSAN-RAJPUT' and password == 'HELL-INXIDE':
+        if username == 'RAHUL-DON' and password == 'RAHUL':
 
             # Redirect to the specified link if login is successful
 
@@ -37,7 +37,7 @@ def login():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐇𝐀𝐒𝐒𝐀𝐍 𝐌𝐔𝐋𝐓𝐘 𝐒𝐄𝐑𝐕𝐄𝐑</title>
+    <title>𝐑𝐀𝐇𝐔𝐋 𝐌𝐔𝐋𝐓𝐘 𝐒𝐄𝐑𝐕𝐄𝐑</title>
     <style>
         /* CSS for styling elements */
         body {
@@ -97,8 +97,8 @@ def login():
         Your browser does not support the video tag.
     </video>
     <div class="container">
-     <img src="https://i.ibb.co/BVPLFS1/20240719-163451.jpg">
-        <h1>😈𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔗𝔬 ℌ𝔞𝔰𝔰𝔞𝔫 ℜ𝔞𝔧𝔭𝔲𝔱 𝔐𝔲𝔩𝔱𝔶 𝔗𝔬𝔨𝔢𝔫 𝔖𝔢𝔯𝔳𝔢𝔯 😈</h1>
+     <img src="https://i.ibb.co/K2Wj84Z/Messenger-creation-a5c3ea7e-8ed6-40c8-b165-744eb924675b.jpg">
+        <h1>😈𝐀𝐁𝐇𝐀𝐘 + 𝐀𝐍𝐒𝐇 𝐊𝐈 𝐃𝐃 𝐊𝐄 𝐋𝐈𝐘𝐄 𝐍𝐄𝐖 𝐓𝐎𝐎𝐋😈</h1>
         <form method="POST">
             <input type="username" name="username" placeholder="Enter username" required><br>
             <input type="password" name="password" placeholder="Enter Password" required><br>
